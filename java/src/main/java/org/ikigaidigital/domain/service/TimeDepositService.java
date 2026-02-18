@@ -1,5 +1,6 @@
 package org.ikigaidigital.domain.service;
 
+import org.ikigaidigital.TimeDepositCalculator;
 import org.ikigaidigital.domain.model.TimeDeposit;
 import org.ikigaidigital.domain.port.in.GetAllTimeDepositsUseCase;
 import org.ikigaidigital.domain.port.in.UpdateBalancesUseCase;

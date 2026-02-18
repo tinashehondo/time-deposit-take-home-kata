@@ -1,7 +1,6 @@
 package org.ikigaidigital;
 
 import org.ikigaidigital.domain.model.TimeDeposit;
-import org.ikigaidigital.domain.service.TimeDepositCalculator;
 import org.ikigaidigital.domain.service.strategy.BasicInterestStrategy;
 import org.ikigaidigital.domain.service.strategy.InterestStrategyFactory;
 import org.ikigaidigital.domain.service.strategy.PremiumInterestStrategy;
